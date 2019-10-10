@@ -4,8 +4,8 @@ AWS 명령줄 인터페이스(CLI)는 AWS 서비스를 관리하는 통합 도�
 
 ## 사전 준비
 
-- [aws credential 설정](https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/cli-chap-configure.html)
-- [aws-cli 설치 및 구성](https://docs.aws.amazon.com/ko_kr/streams/latest/dev/kinesis-tutorial-cli-installation.html)
+* [aws credential 설정](https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/cli-chap-configure.html)
+* [aws-cli 설치 및 구성](https://docs.aws.amazon.com/ko_kr/streams/latest/dev/kinesis-tutorial-cli-installation.html)
 
 ### 사용 예시
 

@@ -3,11 +3,12 @@
 ## 설치
 
 - [terraform 설치](https://learn.hashicorp.com/terraform/getting-started/install.html)
+
 - brew로 설치
 
-```bash
-brew install terraform
-```
+    ```bash
+    brew install terraform
+    ```
 > [tfenv 설치](https://github.com/tfutils/tfenv)
 
 ## 사용법

@@ -1,6 +1,6 @@
 # cloudfront-lambda@edge
 
-![outline](./images/outline.jpg)
+![outline](./etc/images/outline.jpg)
 
 ## 환경 구성
 
@@ -10,9 +10,9 @@
 
 ## 일정
 
-- [ ] step1 환경 구성 및 serverless framework
-- [ ] step2 terraform & serverless plugin
-- [ ] step3 Cloudfront & S3 구성
+- [ ] [step1](./step1.md) 환경 구성 및 Cloudfront & S3 구성
+- [ ] step2 terraform
+- [ ] step3 serverless framework
 - [ ] step4 lambda@edge
 
 ## Reference
