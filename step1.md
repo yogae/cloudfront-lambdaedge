@@ -15,4 +15,6 @@
 
 ![cloudfront2](./etc/images/cloudfront2.png)
 
+### origin path, cache behavior path 설정
+
 ![cloudfront-path](./etc/images/cloudfront-path.png)
