@@ -6,14 +6,13 @@
 
 ## cloudfront 구성
 
+* [basic](./etc/aws.md)
+
 ![cloudfront1](./etc/images/cloudfront1.png)
 
 * web - 기본적은 distribution
 * RTMP - RTMP을 사용하는 distribution
 
 ![cloudfront2](./etc/images/cloudfront2.png)
-
-* [basic](./etc/aws.md)
-* 
 
 ![cloudfront-path](./etc/images/cloudfront-path.png)

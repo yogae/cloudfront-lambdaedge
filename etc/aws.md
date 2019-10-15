@@ -17,6 +17,8 @@
 
 - [cache 설정](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Expiration.html)
 
+## OAI(Origin Access Identity)
+
 ## lambd@edge
 
 ![lambda@edge](./images/cloudfront-lambdaedge.png)
