@@ -14,6 +14,6 @@ sls create --template aws-java-maven
 sls deploy
 ```
 
-# 추가 자료
+## 추가 자료
 
 - [AWS Lambda Cold Start Language Comparisons](https://levelup.gitconnected.com/aws-lambda-cold-start-language-comparisons-2019-edition-%EF%B8%8F-1946d32a0244)
