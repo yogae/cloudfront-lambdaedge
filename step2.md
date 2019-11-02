@@ -14,3 +14,4 @@
 ## Reference
 
 - [terraform cloud](https://app.terraform.io/session)
+- [lamdba@edge log](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/lambda-cloudwatch-metrics-logging.html)

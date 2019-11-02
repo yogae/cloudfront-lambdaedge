@@ -11,9 +11,9 @@
 ## 일정
 
 - [x] [step1](./step1.md) 환경 구성 및 Cloudfront & S3 구성
-- [ ] [step2](./step2.md) terraform으로 infra 구축하기
-- [ ] step3 serverless framework
-- [ ] step4 lambda@edge
+- [x] [step2](./step2.md) terraform으로 infra 구축하기, serverless framework, lambda@edge
+- [ ] [step3](./step3.md) cloudfront alarm 설정, waf 설정
+- [ ] step4
 
 ## Reference
 
