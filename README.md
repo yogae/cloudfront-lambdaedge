@@ -12,8 +12,12 @@
 
 - [x] [step1](./step1.md) 환경 구성 및 Cloudfront & S3 구성
 - [x] [step2](./step2.md) terraform으로 infra 구축하기, serverless framework, lambda@edge
-- [ ] [step3](./step3.md) cloudfront alarm 설정, waf 설정
-- [ ] step4
+- [x] [step3](./step3.md) cloudfront alarm 설정, sns
+
+## 추가 설명
+
+- [cache 설정](./etc/cache.md)
+- [waf 설정](./etc/waf.md)
 
 ## Reference
 
