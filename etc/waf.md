@@ -10,4 +10,5 @@ AWS WAF는 Amazon API Gateway API, Amazon CloudFront 또는 Application Load Bal
 
 ## Reference
 
+* [aws-waf-sample](https://github.com/aws-samples/aws-waf-sample/tree/master/waf-owasp-top-10)
 * [aws-waf-security-automations](https://github.com/awslabs/aws-waf-security-automations)
